@@ -1,0 +1,10 @@
+{
+  "name": "any-xray-not-working",
+  "version": "1.0.0",
+  "dependencies": {
+    "elysia": "^1.1.16"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
